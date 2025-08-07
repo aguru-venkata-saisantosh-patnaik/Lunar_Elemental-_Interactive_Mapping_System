@@ -2,7 +2,7 @@
 # Interactive_Map
 ## CSV Preparation
 
-(Note: Raw Datasets is not attached due to security reasons as it is collected by ISRO during the Chandrayaan-3 Mission)
+(Note: Raw Datasets is not attached due to security reasons as it is collected by ISRO during the Chandrayaan-2 Mission)
 
 Here we use all the month data to filter out the fits files and concatenate them and put them in endfinal_individualfin1.csv 
 ```python
